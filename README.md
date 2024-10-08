@@ -21,8 +21,8 @@ The script will extract music from any Telegram chat. It automatically adds the 
 1. **Clone the Project**:
 
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/telegram-spotify-bot.git
-   cd telegram-spotify-bot
+   git clone https://github.com/chethober/T2S.git
+   cd T2S
    ```
 
 2. **Install Required Libraries**:
